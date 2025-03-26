@@ -19,4 +19,6 @@ The CHERI Alliance is a non-profit organisation, and welcomes different types of
 ## About this repository
 The CHERI Alliance wants to make CHERI as easy to use and integrate as possible. CHERI doesn't require to rewrite your code but there are things that need to be adapted (including fixing security flaws ;) ). This requires tools and software libraries that you will find here.
 
+To request a repository please see the [creation rules](https://github.com/CHERI-Alliance/.github/blob/main/repository_creation_rules.md).
+
 The CHERI Alliance forms working groups to help coordinate activity on these elements, and we would encourage you to join so that you can benefit from the ecosystem, but obviously you are also free to participate without being part of the Alliance.
