@@ -15,7 +15,7 @@ When creating a new repository that is similar to one that already exists, this 
 On a general note, we prefer maintaining branches on an existing repository unless there is a good reason not to.
 
 In all cases, when a repository is created, it should have an initial responsible working group or person.
-For public repositories please [open an issue on this repository](https://github.com/CHERI-Alliance/.github/issues/new?template=01_REPO_REQ.yml).
+For public repositories please [open an issue on the RepoMgmtWg repository](https://github.com/CHERI-Alliance/RepoMgmtWG/issues/new?template=01_REPO_REQ.yml).
 In this issue it should also be clear if this is a fork of an existing repository and the expected lifetime of the project.
 Short-term projects can be those where it's a staging ground for upstreaming, while longer-term projects can be those where the CHERI alliance sees a need to support the community or fill a gap.
 For private repositories please send an email to the repository management working group.
